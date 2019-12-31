@@ -1,0 +1,88 @@
+.light-blue{
+	border-color:  black;
+	border-style:  solid;
+	background:    #80ffff;
+	color:         black;
+	border-radius: 10px;
+	margin-left:   10px;
+	margin-right:  10px;
+	margin-top:    8px;
+	margin-bottom: 8px;
+}
+
+.center-title{
+	text-align: center;
+}
+
+.disbelieve{
+	border-color:  black;
+	border-style:  solid;
+	background:    #ff9999;
+	color:         black;
+	border-radius: 10px;
+	margin-left:   8px;
+	margin-right:  9px;
+	margin-top:    4px;
+	margin-bottom: 4px;
+	display:       inline-block;	
+	width:         23.5%;
+}
+
+.neutral{
+	border-color:  black;
+	border-style:  solid;
+	background:    #bfbfbf;
+	color:         black;
+	border-radius: 10px;
+	margin-left:   8px;
+	margin-right:  9px;
+	margin-top:    4px;
+	margin-bottom: 4px;
+	display:       inline-block;	
+	width:         23.5%;
+}
+
+.believe{
+	border-color:  black;
+	border-style:  solid;
+	background:    #b3ffb3;
+	color:         black;
+	border-radius: 10px;
+	margin-left:   8px;
+	margin-right:  9px;
+	margin-top:    4px;
+	margin-bottom: 4px;
+	display:       inline-block;	
+	width:         23.5%;
+}
+
+.neutral:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+  transform: scale(1.01);
+}
+
+.believe:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+  transform: scale(1.01);
+}
+
+.disbelieve:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+  transform: scale(1.01);
+}
+
+.center-image {
+	display: block;
+	margin:  auto;
+}
+
+.spread {
+	margin-left:   10pt;
+	margin-right:  10pt;	
+}
+
+.center-weather{
+	text-align:  center;
+	font-size:   18pt;
+	font-weight: bold;
+}
