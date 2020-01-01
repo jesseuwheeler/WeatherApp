@@ -1,4 +1,4 @@
-# This repository is a simple weather app create using R Shiny
+# Simple Weather App: R Shiny Application 
 
 ## R Packages Used:
 
